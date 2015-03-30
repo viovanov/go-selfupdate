@@ -42,8 +42,8 @@ import (
 	"runtime"
 	"time"
 
-	"bitbucket.org/kardianos/osext"
 	"github.com/inconshreveable/go-update"
+	"github.com/kardianos/osext"
 	"github.com/kr/binarydist"
 )
 
